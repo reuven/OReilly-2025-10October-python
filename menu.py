@@ -10,4 +10,4 @@ def menu(choices):
             return user_choice
 
         print(f'{user_choice} is not valid; try again')
-    
+

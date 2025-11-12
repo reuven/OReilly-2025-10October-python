@@ -11,3 +11,5 @@ def menu(choices):
 
         print(f'{user_choice} is not valid; try again')
 
+if __name__ == '__main__':
+    
